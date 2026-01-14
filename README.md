@@ -1,2 +1,5 @@
-# press-to-win
-A minimal one-button clicker game built with vanilla HTML, CSS, and JavaScript.
+# Press-to-win
+
+A minimal clicker game.
+One button.
+Press to win.
